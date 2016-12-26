@@ -1,0 +1,33 @@
+---
+title: "BYU-Idaho Github Course Pages"
+output: html_document
+---
+
+Welcome to the BYU-I Math Department Github course page.  You will find links to courses that have github.io pages below.  All courses are maintained through the [byuistats github group](https://github.com/byuistats){target="blank"}. 
+
+### Statistics Courses
+
+#### M330 
+
+Engineering Statistics
+
+* [Hathaway](http://byuistats.github.io/M330/)
+* [Palmer](https://byuistats.github.io/M330_Palmer/)
+
+#### M325
+
+Intermediate Statistics
+
+* [Hathaway](https://byuistats.github.io/M325_Hathaway/)
+
+#### M335
+
+Data Wrangling and Visualization
+
+* [Hathaway](https://byuistats.github.io/M335/)
+
+### Data Repository
+
+This repository is public and is in draft form.  It is mostly data that is used in Math 221.  
+
+* [Data](https://github.com/byuistats/data)

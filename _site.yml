@@ -1,0 +1,26 @@
+name: "BYUI Github Pages"
+navbar:
+  title: "BYUI Math"
+  left:
+    - text: "Math Department Information"
+      icon: fa-paperclip
+      href: http://www.byui.edu/mathematics
+    - text: "R"
+      icon: fa-area-chart
+      href: https://www.r-project.org/
+ 
+
+output_dir: '.'
+output:
+  html_document:
+    toc: true
+    theme: readable
+    highlight: textmate
+    mathjax: null
+    toc_depth: 5
+    toc_float:
+      collapsed: false
+
+
+
+
