@@ -7,18 +7,24 @@ Welcome to the BYU-I Math Department Github course page.  You will find links to
 
 ### Statistics Courses
 
+#### M325
+
+Intermediate Statistics
+
+* [Hathaway](https://byuistats.github.io/M325_Hathaway/)
+
+#### M327
+
+Bayesian Statistics
+
+* [Chilton](https://byuistats.github.io/M327/)
+
 #### M330 
 
 Engineering Statistics
 
 * [Hathaway](http://byuistats.github.io/M330/)
 * [Palmer](https://byuistats.github.io/M330_Palmer/)
-
-#### M325
-
-Intermediate Statistics
-
-* [Hathaway](https://byuistats.github.io/M325_Hathaway/)
 
 #### M335
 

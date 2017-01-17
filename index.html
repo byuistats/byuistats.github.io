@@ -22,13 +22,12 @@
 <script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
 <link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
 <script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-1.1/textmate.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-1.1/highlight.js"></script>
 <link href="site_libs/font-awesome-4.5.0/css/font-awesome.min.css" rel="stylesheet" />
 
 <style type="text/css">code{white-space: pre;}</style>
-<link rel="stylesheet"
-      href="site_libs/highlight/textmate.css"
-      type="text/css" />
-<script src="site_libs/highlight/highlight.js"></script>
 <style type="text/css">
   pre:not([class]) {
     background-color: white;
@@ -155,7 +154,6 @@ $(document).ready(function () {
 <div class="container-fluid main-container">
 
 <!-- tabsets -->
-<script src="site_libs/navigation-1.1/tabsets.js"></script>
 <script>
 $(document).ready(function () {
   window.buildTabsets("TOC");
@@ -181,7 +179,7 @@ $(document).ready(function ()  {
       theme: "bootstrap3",
       context: '.toc-content',
       hashGenerator: function (text) {
-        return text.replace(/[.\/?&!#<>]/g, '').replace(/\s/g, '_').toLowerCase();
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_').toLowerCase();
       },
       ignoreSelector: ".toc-ignore",
       scrollTo: 0
@@ -240,8 +238,9 @@ div.tocify {
 }
 
 .tocify-subheader .tocify-item {
-  font-size: 0.9em;
-  padding-left: 5px;
+  font-size: 0.90em;
+  padding-left: 25px;
+  text-indent: 0;
 }
 
 .tocify .list-group-item {
@@ -253,7 +252,6 @@ div.tocify {
 }
 .tocify-subheader .tocify-item {
   font-size: 0.95em;
-  padding-left: 10px;
 }
 
 </style>
@@ -316,19 +314,26 @@ div.tocify {
 <p>Welcome to the BYU-I Math Department Github course page. You will find links to courses that have github.io pages below. All courses are maintained through the <a href="https://github.com/byuistats" target="blank">byuistats github group</a>.</p>
 <div id="statistics-courses" class="section level3">
 <h3>Statistics Courses</h3>
+<div id="m325" class="section level4">
+<h4>M325</h4>
+<p>Intermediate Statistics</p>
+<ul>
+<li><a href="https://byuistats.github.io/M325_Hathaway/">Hathaway</a></li>
+</ul>
+</div>
+<div id="m327" class="section level4">
+<h4>M327</h4>
+<p>Bayesian Statistics</p>
+<ul>
+<li><a href="https://byuistats.github.io/M327/">Chilton</a></li>
+</ul>
+</div>
 <div id="m330" class="section level4">
 <h4>M330</h4>
 <p>Engineering Statistics</p>
 <ul>
 <li><a href="http://byuistats.github.io/M330/">Hathaway</a></li>
 <li><a href="https://byuistats.github.io/M330_Palmer/">Palmer</a></li>
-</ul>
-</div>
-<div id="m325" class="section level4">
-<h4>M325</h4>
-<p>Intermediate Statistics</p>
-<ul>
-<li><a href="https://byuistats.github.io/M325_Hathaway/">Hathaway</a></li>
 </ul>
 </div>
 <div id="m335" class="section level4">
@@ -357,8 +362,11 @@ div.tocify {
 <script>
 
 // add bootstrap table styles to pandoc tables
-$(document).ready(function () {
+function bootstrapStylePandocTables() {
   $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
 });
 
 
