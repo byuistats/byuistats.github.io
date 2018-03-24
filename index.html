@@ -4,7 +4,7 @@
 
 <head>
 
-<meta charset="utf-8">
+<meta charset="utf-8" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
 
@@ -23,8 +23,8 @@
 <link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
 <script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
-<link href="site_libs/highlightjs-1.1/textmate.css" rel="stylesheet" />
-<script src="site_libs/highlightjs-1.1/highlight.js"></script>
+<link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 <link href="site_libs/font-awesome-4.5.0/css/font-awesome.min.css" rel="stylesheet" />
 
 <style type="text/css">code{white-space: pre;}</style>
@@ -34,10 +34,12 @@
   }
 </style>
 <script type="text/javascript">
-if (window.hljs && document.readyState && document.readyState === "complete") {
-   window.setTimeout(function() {
-      hljs.initHighlighting();
-   }, 0);
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
 }
 </script>
 
@@ -311,37 +313,35 @@ div.tocify {
 </div>
 
 
-<p>Welcome to the BYU-I Math Department Github course page. You will find links to courses that have github.io pages below. All courses are maintained through the <a href="https://github.com/byuistats" target="blank">byuistats github group</a>.</p>
+<p>Welcome to the BYU-I Math Department Github course page. You will find links to courses that have github.io pages below. All courses are maintained through the <a href="https://github.com/byuistats" target="blank">byuistats github group</a>. For now, these are generally the classes that J. Hathaway teaches.</p>
 <div id="statistics-courses" class="section level3">
 <h3>Statistics Courses</h3>
-<div id="m325" class="section level4">
-<h4>M325</h4>
-<p>Intermediate Statistics</p>
-<ul>
-<li><a href="https://byuistats.github.io/M325_Hathaway/">Hathaway</a></li>
-</ul>
+<div id="currently-developing" class="section level4">
+<h4>Currently Developing</h4>
+<div id="m335---data-wrangling-and-visualization" class="section level5">
+<h5><a href="https://byuistats.github.io/M335/">M335 - Data Wrangling and Visualization</a></h5>
+<p>This course started in the fall of 2017. It is taught each semester and updates are being made almost weekly.</p>
 </div>
-<div id="m327" class="section level4">
-<h4>M327</h4>
-<p>Bayesian Statistics</p>
-<ul>
-<li><a href="https://byuistats.github.io/M327/">Chilton</a></li>
-</ul>
+<div id="m488---statistical-and-data-science-consulting" class="section level5">
+<h5><a href="https://byuistats.github.io/M488/">M488 - Statistical and Data Science Consulting</a></h5>
+<p>We are in draft mode for this page. The course has been around for a few years. We are modernizing it to handle the inlfux of data science students.</p>
 </div>
-<div id="m330" class="section level4">
-<h4>M330</h4>
-<p>Engineering Statistics</p>
-<ul>
-<li><a href="http://byuistats.github.io/M330/">Hathaway</a></li>
-<li><a href="https://byuistats.github.io/M330_Palmer/">Palmer</a></li>
-</ul>
+<div id="m221abc---introduction-to-statistics" class="section level5">
+<h5><a href="http://byuistats.github.io/M221/">M221(ABC) - Introduction to Statistics</a></h5>
+<p>This course is largely maintained in BYU-I’s learning management system. We have a few material items here for the faculty to use. J. Hathaway stores some of his course items on his own <a href="https://byuistats.github.io/M221_hathaway/index.html">M221 page</a></p>
 </div>
-<div id="m335" class="section level4">
-<h4>M335</h4>
-<p>Data Wrangling and Visualization</p>
-<ul>
-<li><a href="https://byuistats.github.io/M335/">Hathaway</a></li>
-</ul>
+</div>
+<div id="historical" class="section level4">
+<h4>Historical</h4>
+<p>These are courses that have been taught in the past but have not been updated.</p>
+<div id="m325---intermediate-statistics" class="section level5">
+<h5><a href="https://byuistats.github.io/M325_Hathaway/">M325 - Intermediate Statistics</a></h5>
+<p>The structures of this material is a little outdated as it was used over a year ago. The most up to date material is kept by Garrett Saunders in BYU-I’s learning management system. This page should be used again in the next year and updates will be made then.</p>
+</div>
+<div id="m330---engineering-statistics" class="section level5">
+<h5><a href="http://byuistats.github.io/M330/">M330 - Engineering Statistics</a></h5>
+<p>David Palmer and J. Hathaway used a different texbook than the other Math 330 teachers. We have both stopped using this textbook and the material of the course has changed a little since J. Hathaway taught it. Don’t anticipate updates anytime soon to this page.</p>
+</div>
 </div>
 </div>
 <div id="data-repository" class="section level3">

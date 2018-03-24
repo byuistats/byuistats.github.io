@@ -3,34 +3,35 @@ title: "BYU-Idaho Github Course Pages"
 output: html_document
 ---
 
-Welcome to the BYU-I Math Department Github course page.  You will find links to courses that have github.io pages below.  All courses are maintained through the [byuistats github group](https://github.com/byuistats){target="blank"}. 
+Welcome to the BYU-I Math Department Github course page.  You will find links to courses that have github.io pages below.  All courses are maintained through the [byuistats github group](https://github.com/byuistats){target="blank"}. For now, these are generally the classes that J. Hathaway teaches.
 
 ### Statistics Courses
 
-#### M325
+#### Currently Developing
 
-Intermediate Statistics
+##### [M335 - Data Wrangling and Visualization](https://byuistats.github.io/M335/)
 
-* [Hathaway](https://byuistats.github.io/M325_Hathaway/)
+This course started in the fall of 2017.  It is taught each semester and updates are being made almost weekly.
 
-#### M327
+##### [M488 - Statistical and Data Science Consulting](https://byuistats.github.io/M488/)
 
-Bayesian Statistics
+We are in draft mode for this page.  The course has been around for a few years.  We are modernizing it to handle the inlfux of data science students.
 
-* [Chilton](https://byuistats.github.io/M327/)
+##### [M221(ABC) - Introduction to Statistics](http://byuistats.github.io/M221/)
 
-#### M330 
+This course is largely maintained in BYU-I's learning management system.  We have a few material items here for the faculty to use.  J. Hathaway stores some of his course items on his own [M221 page](https://byuistats.github.io/M221_hathaway/index.html)
 
-Engineering Statistics
+#### Historical
 
-* [Hathaway](http://byuistats.github.io/M330/)
-* [Palmer](https://byuistats.github.io/M330_Palmer/)
+These are courses that have been taught in the past but have not been updated.
 
-#### M335
+##### [M325 - Intermediate Statistics](https://byuistats.github.io/M325_Hathaway/)
 
-Data Wrangling and Visualization
+The structures of this material is a little outdated as it was used over a year ago.  The most up to date material is kept by Garrett Saunders in BYU-I's learning management system.  This page should be used again in the next year and updates will be made then.
 
-* [Hathaway](https://byuistats.github.io/M335/)
+##### [M330 - Engineering Statistics](http://byuistats.github.io/M330/)
+
+David Palmer and J. Hathaway used a different texbook than the other Math 330 teachers.  We have both stopped using this textbook and the material of the course has changed a little since J. Hathaway taught it.  Don't anticipate updates anytime soon to this page.
 
 ### Data Repository
 
