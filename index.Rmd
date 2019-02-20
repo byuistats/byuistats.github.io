@@ -9,6 +9,10 @@ Welcome to the BYU-I Math Department Github course page.  You will find links to
 
 #### Currently Developing
 
+##### [M325 - Intermediate Statistics](https://byuistats.github.io/Statistics-Notebook/)
+
+This is the course textbook. Updates are made more often at Garrett Saunders [repository](https://github.com/saundersg/Statistics-Notebook).
+
 ##### [M335 - Data Wrangling and Visualization](https://byuistats.github.io/M335/)
 
 This course started in the fall of 2017.  It is taught each semester and updates are being made almost weekly.
@@ -24,10 +28,6 @@ This course is largely maintained in BYU-I's learning management system.  We hav
 #### Historical
 
 These are courses that have been taught in the past but have not been updated.
-
-##### [M325 - Intermediate Statistics](https://byuistats.github.io/M325_Hathaway/)
-
-The structures of this material is a little outdated as it was used over a year ago.  The most up to date material is kept by Garrett Saunders in BYU-I's learning management system.  This page should be used again in the next year and updates will be made then.
 
 ##### [M330 - Engineering Statistics](http://byuistats.github.io/M330/)
 
