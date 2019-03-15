@@ -9,6 +9,10 @@ Welcome to the BYU-I Math Department Github course page.  You will find links to
 
 #### Currently Developing
 
+##### [M221(ABC) - Introduction to Statistics](http://byuistats.github.io/M221/)
+
+This course is largely maintained in BYU-I's learning management system.  We have a few material items here for the faculty to use.  J. Hathaway stores some of his course items on his own [M221 page](https://byuistats.github.io/M221_hathaway/index.html)
+
 ##### [M325 - Intermediate Statistics](https://byuistats.github.io/Statistics-Notebook/)
 
 This is the course textbook. Updates are made more often at Garrett Saunders [repository](https://github.com/saundersg/Statistics-Notebook).
@@ -21,9 +25,13 @@ This course started in the fall of 2017.  It is taught each semester and updates
 
 We are in draft mode for this page.  The course has been around for a few years.  We are modernizing it to handle the inlfux of data science students.
 
-##### [M221(ABC) - Introduction to Statistics](http://byuistats.github.io/M221/)
+##### [M498 - Data Science Internship](https://byuistats.github.io/M498R_DS/)
 
-This course is largely maintained in BYU-I's learning management system.  We have a few material items here for the faculty to use.  J. Hathaway stores some of his course items on his own [M221 page](https://byuistats.github.io/M221_hathaway/index.html)
+This pages contains the syllabus and some information to help with searching for an internship.  You can also find internship information at [byuidatascience.github.io](https://byuidatascience.github.io/internship.html)
+
+##### [M499 - Data Science Senior Project](https://byuistats.github.io/M499R_DS/)
+
+Each data science major will complete a 3-credit senior project with one of the data science faculty.
 
 #### Historical
 
