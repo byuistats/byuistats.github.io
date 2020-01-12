@@ -5,7 +5,7 @@ output: html_document
 
 Welcome to the BYU-I Math Department Github course page.  You will find links to courses that have github.io pages below.  All courses are maintained through the [byuistats github group](https://github.com/byuistats){target="blank"}. For now, these are generally the classes that J. Hathaway teaches.
 
-### Statistics Courses
+### Statistics & Data Science Courses
 
 #### Currently Developing
 
@@ -46,3 +46,12 @@ David Palmer and J. Hathaway used a different texbook than the other Math 330 te
 This repository is public and is in draft form.  It is mostly data that is used in Math 221.  
 
 * [Data](https://github.com/byuistats/data)
+* [Brigham Young University - Idaahho Data Science Repository with public data](https://github.com/byuidatascience) (search for repos with the name data)
+
+### Data Science Program 
+
+Below are links to information about our data science program
+
+- [BYUIDATASCINCE on GitHUB](byuidatascience.github.io)
+- [Math Department page for DS](http://www.byui.edu/mathematics/student-resources/data-science)
+- [BYUI DS Program page](http://www.byui.edu/catalog/#/programs/41PwqJ9RZ)
