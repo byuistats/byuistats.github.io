@@ -9,13 +9,13 @@ Welcome to the BYU-I Math Department Github course page.  You will find links to
 
 #### Currently Developing
 
-##### [CSE 150 - Data Intuition and Insight](https://byuistats.github.io/BYUI_CSE150_StatBook/)
+##### [CSE 150 - Data Intuition and Insight](https://byuistats.github.io/CSE150)
 
-Supplemental readings for CSE 150.
+We also host the [supplemental readings for CSE 150](https://byuistats.github.io/BYUI_CSE150_StatBook/) which are largely taken from the Math 221 and Math 325 textbooks.
 
 ##### [M221(ABC) - Introduction to Statistics](http://byuistats.github.io/M221/)
 
-This course is largely maintained in BYU-I's learning management system.  We have a few material items here for the faculty to use.  J. Hathaway stores some of his course items on his own [M221 page](https://byuistats.github.io/M221_hathaway/index.html)
+Our [course textbook is now hosted using bookdown](https://byuistats.github.io/BYUI_M221_Book/). This course is largely maintained in BYU-I's learning management system.  We have a few material items here for the faculty to use.  J. Hathaway stores some of his course items on his own [M221 page](https://byuistats.github.io/M221_hathaway/index.html)
 
 ##### [M325 - Intermediate Statistics](https://byuistats.github.io/Statistics-Notebook/)
 
@@ -23,7 +23,7 @@ This is the course textbook. Updates are made more often at Garrett Saunders [re
 
 ##### [M335 - Data Wrangling and Visualization](https://byuistats.github.io/M335/)
 
-This course started in the fall of 2017.  It is taught each semester and updates are being made almost weekly.
+This course started in the fall of 2017.  Other teachers may host their material in our learning management system.
 
 ##### [M488 - Statistical and Data Science Consulting](https://byuistats.github.io/M488/)
 
@@ -50,7 +50,7 @@ David Palmer and J. Hathaway used a different texbook than the other Math 330 te
 This repository is public and is in draft form.  It is mostly data that is used in Math 221.  
 
 * [Data](https://github.com/byuistats/data)
-* [Brigham Young University - Idaahho Data Science Repository with public data](https://github.com/byuidatascience) (search for repos with the name data)
+* [Brigham Young University - Idaahho Data Science Repository with public data](https://github.com/byuidatascience) (search for repos with the name `data4`)
 
 ### Data Science Program 
 
