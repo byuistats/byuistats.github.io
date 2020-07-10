@@ -1,6 +1,6 @@
 name: "BYUI Github Pages"
 navbar:
-  title: "BYUI Math"
+  title: "BYUI Statistics and Data Science"
   left:
     - text: "Math Department Information"
       icon: fa-paperclip
