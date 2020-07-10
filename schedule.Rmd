@@ -1,0 +1,27 @@
+---
+title: "Schedule a Visit"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## J. Hathaway
+
+<iframe src="https://www.meetingbird.com/h/hathawayj" style="width: 100%; border: none; min-height: 550px;"></iframe>
+
+## David Palmer
+
+<!-- Calendly inline widget begin -->
+<div class="calendly-inline-widget" data-url="https://calendly.com/bropalmer/30min" style="min-width:320px;height:630px;"></div>
+<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js"></script>
+<!-- Calendly inline widget end -->
+
+
+## Katie Larson
+
+[BYUI Office Hours](https://web.byui.edu/Directory/Employee/larsonkat)
+
+
+

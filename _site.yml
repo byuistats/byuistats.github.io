@@ -5,10 +5,32 @@ navbar:
     - text: "Math Department Information"
       icon: fa-paperclip
       href: http://www.byui.edu/mathematics
-    - text: "R"
-      icon: fa-area-chart
-      href: https://www.r-project.org/
- 
+    - text: "Faculty Visits"
+      icon: fa-calendar
+      href: schedule.html
+    - text: "Tools"
+      icon: fa-code
+      menu:
+        - text: "Languages"
+        - text: "R"
+          icon: fa-chart-area
+          href: https://www.r-project.org/
+        - text: "Python"
+          icon: fa-terminal
+          href: https://www.python.org/
+        - text: "Julia"
+          icon: fa-cubes
+          href: https://julialang.org/
+        - text: "----------------"
+        - text: "Environments/Editors"
+        - text: "RStudio Desktop"
+          icon: fa-registered
+          href: https://rstudio.com/products/rstudio/#rstudio-desktop
+        - text: "VS Code"
+          icon: fa-edit
+          href: https://code.visualstudio.com/
+      
+          
 
 output_dir: '.'
 output:
