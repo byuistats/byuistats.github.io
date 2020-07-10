@@ -9,7 +9,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## J. Hathaway
 
-<iframe src="https://www.meetingbird.com/h/hathawayj" style="width: 100%; border: none; min-height: 550px;"></iframe>
+<iframe src="https://www.meetingbird.com/h/hathawayj" style="width: 70%; border: none; min-height: 550px;"></iframe>
 
 ## David Palmer
 
