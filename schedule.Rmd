@@ -21,7 +21,6 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Katie Larson
 
-[BYUI Office Hours](https://web.byui.edu/Directory/Employee/larsonkat)
-
+<iframe src="https://www.meetingbird.com/h/SisterLarson" style="width: 70%; border: none; min-height: 550px;"></iframe>
 
 
