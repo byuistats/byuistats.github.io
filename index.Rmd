@@ -9,6 +9,12 @@ Welcome to the BYU-I Math Department Github course page.  You will find links to
 
 #### Currently Developing
 
+##### [CSE 250 - Data Science Programming](https://byuistats.github.io/CSE250-Course)
+
+We host the [Python for Data Science book](https://byuidatascience.github.io/python4ds/) as well.
+
+#### Active
+
 ##### [CSE 150 - Data Intuition and Insight](https://byuistats.github.io/CSE150)
 
 We also host the [supplemental readings for CSE 150](https://byuistats.github.io/BYUI_CSE150_StatBook/) which are largely taken from the Math 221 and Math 325 textbooks.
@@ -45,14 +51,14 @@ These are courses that have been taught in the past but have not been updated.
 
 David Palmer and J. Hathaway used a different texbook than the other Math 330 teachers.  We have both stopped using this textbook and the material of the course has changed a little since J. Hathaway taught it.  Don't anticipate updates anytime soon to this page.
 
-### Data Repository
+#### Data Repository
 
 This repository is public and is in draft form.  It is mostly data that is used in Math 221.  
 
 * [Data](https://github.com/byuistats/data)
 * [Brigham Young University - Idaahho Data Science Repository with public data](https://github.com/byuidatascience) (search for repos with the name `data4`)
 
-### Data Science Program 
+#### Data Science Program 
 
 Below are links to information about our data science program
 
