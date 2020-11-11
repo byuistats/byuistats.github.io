@@ -7,6 +7,12 @@ Welcome to the BYU-I Math Department Github course page.  You will find links to
 
 ### Statistics & Data Science Courses
 
+#### In Development
+
+##### [CSE 451 - Big Data Programming and Analytics](https://byuistats.github.io/CSE451-Course/)
+
+This class starts Winter 2021 and will continue in development over Spring 2021.
+
 #### Active
 
 ##### [CSE 150 - Data Intuition and Insight](https://byuistats.github.io/CSE150)

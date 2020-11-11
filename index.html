@@ -13,7 +13,7 @@
 
 <title>BYU-Idaho Github Course Pages</title>
 
-<script src="site_libs/header-attrs-2.3.5/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.5/header-attrs.js"></script>
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/readable.min.css" rel="stylesheet" />
@@ -26,8 +26,19 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/anchor-sections-1.0/anchor-sections.css" rel="stylesheet" />
+<script src="site_libs/anchor-sections-1.0/anchor-sections.js"></script>
 <link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
 <link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -439,6 +450,13 @@ div.tocify {
 <p>Welcome to the BYU-I Math Department Github course page. You will find links to courses that have github.io pages below. All courses are maintained through the <a href="https://github.com/byuistats" target="blank">byuistats github group</a>. For now, these are generally the classes that J. Hathaway teaches.</p>
 <div id="statistics-data-science-courses" class="section level3">
 <h3>Statistics &amp; Data Science Courses</h3>
+<div id="in-development" class="section level4">
+<h4>In Development</h4>
+<div id="cse-451---big-data-programming-and-analytics" class="section level5">
+<h5><a href="https://byuistats.github.io/CSE451-Course/">CSE 451 - Big Data Programming and Analytics</a></h5>
+<p>This class starts Winter 2021 and will continue in development over Spring 2021.</p>
+</div>
+</div>
 <div id="active" class="section level4">
 <h4>Active</h4>
 <div id="cse-150---data-intuition-and-insight" class="section level5">
@@ -512,7 +530,7 @@ div.tocify {
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();
