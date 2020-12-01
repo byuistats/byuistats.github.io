@@ -9,7 +9,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## J. Hathaway
 
-<iframe src="https://www.meetingbird.com/h/hathawayj" style="width: 70%; border: none; min-height: 550px;"></iframe>
+<a id="TTE-bf031cf6-2f00-43c9-abfc-b747e5c59d26" href="https://10to8.com/book/wxshor-free/" target="_blank">See Online Booking Page</a> <script src="https://d3saea0ftg7bjt.cloudfront.net/embed/js/embed.min.js"></script> <script> window.TTE.init({ targetDivId: "TTE-bf031cf6-2f00-43c9-abfc-b747e5c59d26", uuid: "bf031cf6-2f00-43c9-abfc-b747e5c59d26", }); </script>
 
 ## David Palmer
 
