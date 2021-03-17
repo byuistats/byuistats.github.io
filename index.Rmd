@@ -7,12 +7,6 @@ Welcome to the BYU-I Math Department Github course page.  You will find links to
 
 ### Statistics & Data Science Courses
 
-#### In Development
-
-##### [CSE 451 - Big Data Programming and Analytics](https://byuistats.github.io/CSE451-Course/)
-
-This class starts Winter 2021 and will continue in development over Spring 2021.
-
 #### Active
 
 ##### [CSE 150 - Data Intuition and Insight](https://byuistats.github.io/CSE150)
@@ -31,9 +25,13 @@ This is the course textbook. Updates are made more often at Garrett Saunders [re
 
 This course started in the fall of 2017.  Other teachers may host their material in our learning management system.
 
-##### [M488 - Statistical and Data Science Consulting](https://byuistats.github.io/M488/)
+##### [CSE 451 - Big Data Programming and Analytics](https://github.com/BYUI451)
 
-We are in draft mode for this page.  The course has been around for a few years.  We are modernizing it to handle the inlfux of data science students.
+We are in draft mode for this course.  See the [course_guide](https://github.com/BYUI451/course_guide) repo for the syllabus.
+
+##### [M488 - Statistical and Data Science Consulting](https://github.com/BYUIDSconsulting)
+
+The course has been around for a few years.  We are modernizing it to handle the influx of data science students. You can see the syllabus in [the course organization](https://github.com/BYUIDSconsulting/course_guide/blob/main/syllabus.md).
 
 ##### [M498 - Data Science Internship](https://byuistats.github.io/M498R_DS/)
 
