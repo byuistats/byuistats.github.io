@@ -37,7 +37,7 @@ The course has been around for a few years.  We are modernizing it to handle the
 
 This pages contains the syllabus and some information to help with searching for an internship.  You can also find internship information at [byuidatascience.github.io](https://byuidatascience.github.io/internship.html)
 
-##### [M499 - Data Science Senior Project](https://byuistats.github.io/M499R_DS/)
+##### [M499 - Data Science Senior Project](https://github.com/BYUIDSseniorproject)
 
 Each data science major will complete a 3-credit senior project with one of the data science faculty.
 
